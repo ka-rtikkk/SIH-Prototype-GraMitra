@@ -3,3 +3,7 @@ The name of the product is GraMitra <br>
 It is an application which will help SC majority villages into adarsh grams<br>
 It is an ongoing project <br>
 The product is being made by Team Wayne, from Amity University Uttar Pradesh Lucknow Campus <br>
+
+
+https://github.com/user-attachments/assets/77836dad-c747-4876-90eb-20ebf26f05aa
+
